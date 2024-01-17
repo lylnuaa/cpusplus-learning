@@ -1,0 +1,3 @@
+/home/clever/Documents/cplusplus/project/build/CMakeFiles/mymain.dir
+/home/clever/Documents/cplusplus/project/build/CMakeFiles/edit_cache.dir
+/home/clever/Documents/cplusplus/project/build/CMakeFiles/rebuild_cache.dir
